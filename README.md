@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @amedina1570
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Naldy Medina
 
-<!---
-amedina1570/amedina1570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+RF engineer working at the intersection of radio frequency systems, signal processing, and embedded development.
+
+## Focus Areas
+
+- Software-defined radio, spectrum analysis, and RF measurement automation
+- Radar signal generation and characterization
+- Embedded hardware development on ESP32 and Raspberry Pi
+- Instrumentation and signal tooling in Python and C++
+
+Always building something that transmits, measures, or computes.
